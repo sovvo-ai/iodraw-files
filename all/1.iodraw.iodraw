@@ -55,7 +55,7 @@
             <mxPoint x="440" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;车辆类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;真实姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;颜色&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
