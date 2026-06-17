@@ -65,6 +65,9 @@
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-26" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1050" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QpwXcHOXjfHbHd3cXeb7-27" value="&lt;font size=&quot;3&quot;&gt;收费标准&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1270" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
