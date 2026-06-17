@@ -7,47 +7,8 @@
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-1" value="车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-3" value="停车场id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-4" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-5" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-6" value="总车位数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-7" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-8" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-1" target="PiQxs4nYkt4r3gsHS1ZC-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="PiQxs4nYkt4r3gsHS1ZC-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="350" as="sourcePoint" />
-            <mxPoint x="450" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="PiQxs4nYkt4r3gsHS1ZC-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="350" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-1" target="PiQxs4nYkt4r3gsHS1ZC-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
