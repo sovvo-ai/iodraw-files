@@ -19,10 +19,10 @@
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-6" value="总车位数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-7" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-8" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
