@@ -11,10 +11,10 @@
           <mxGeometry x="140" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;设备名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;设备类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=none;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-27" target="PiQxs4nYkt4r3gsHS1ZC-1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-44" target="PiQxs4nYkt4r3gsHS1ZC-44">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;设备类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
