@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="697GVRKbdHxxmYqWcKsv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QpwXcHOXjfHbHd3cXeb7-1" target="697GVRKbdHxxmYqWcKsv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-1" value="&lt;font size=&quot;3&quot;&gt;停车场&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="697GVRKbdHxxmYqWcKsv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.419;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QpwXcHOXjfHbHd3cXeb7-5" target="QpwXcHOXjfHbHd3cXeb7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="697GVRKbdHxxmYqWcKsv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.581;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QpwXcHOXjfHbHd3cXeb7-4" target="QpwXcHOXjfHbHd3cXeb7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
