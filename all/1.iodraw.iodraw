@@ -7,7 +7,7 @@
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;车辆&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车主id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;车辆id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
