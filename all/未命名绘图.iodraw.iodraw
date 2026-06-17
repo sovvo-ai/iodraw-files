@@ -7,9 +7,6 @@
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-1" value="停车场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-3" target="PiQxs4nYkt4r3gsHS1ZC-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-3" value="停车场id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="80" as="geometry" />
         </mxCell>
