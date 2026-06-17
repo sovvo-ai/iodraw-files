@@ -247,8 +247,16 @@
         <mxCell id="697GVRKbdHxxmYqWcKsv-55" value="&lt;font size=&quot;3&quot;&gt;预约记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="120" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="697GVRKbdHxxmYqWcKsv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="697GVRKbdHxxmYqWcKsv-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="790.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="697GVRKbdHxxmYqWcKsv-58" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;入场经办&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="697GVRKbdHxxmYqWcKsv-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="697GVRKbdHxxmYqWcKsv-59" target="697GVRKbdHxxmYqWcKsv-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="697GVRKbdHxxmYqWcKsv-59" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;出场经办&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="880" width="80" height="80" as="geometry" />
