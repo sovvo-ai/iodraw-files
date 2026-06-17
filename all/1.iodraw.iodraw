@@ -69,7 +69,7 @@
           <mxGeometry x="460" y="1270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-28" value="&lt;font size=&quot;3&quot;&gt;收费标准&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1270" width="120" height="80" as="geometry" />
+          <mxGeometry x="710" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-29" value="&lt;font size=&quot;3&quot;&gt;车位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="120" width="120" height="80" as="geometry" />
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-36" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QpwXcHOXjfHbHd3cXeb7-37" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
