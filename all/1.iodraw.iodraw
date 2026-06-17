@@ -13,7 +13,7 @@
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;规则名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;设备类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;适用车辆&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=none;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-27" target="PiQxs4nYkt4r3gsHS1ZC-1">
