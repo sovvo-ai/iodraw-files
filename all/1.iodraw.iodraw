@@ -11,10 +11,10 @@
           <mxGeometry x="190" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;登入名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=none;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-27" target="PiQxs4nYkt4r3gsHS1ZC-1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="560" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-45" value="&lt;font size=&quot;3&quot;&gt;手机号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="120" height="80" as="geometry" />
@@ -75,6 +75,9 @@
             <mxPoint x="470" y="380" as="sourcePoint" />
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PiQxs4nYkt4r3gsHS1ZC-44" target="PiQxs4nYkt4r3gsHS1ZC-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
