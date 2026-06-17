@@ -381,6 +381,12 @@
         <mxCell id="697GVRKbdHxxmYqWcKsv-97" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;办理月卡&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1020" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="697GVRKbdHxxmYqWcKsv-98" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="697GVRKbdHxxmYqWcKsv-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="900" as="sourcePoint" />
+            <mxPoint x="330" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
