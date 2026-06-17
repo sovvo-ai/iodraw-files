@@ -62,7 +62,10 @@
           <mxGeometry x="560" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PiQxs4nYkt4r3gsHS1ZC-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;颜色&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PiQxs4nYkt4r3gsHS1ZC-45" value="&lt;font size=&quot;3&quot;&gt;品牌&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
