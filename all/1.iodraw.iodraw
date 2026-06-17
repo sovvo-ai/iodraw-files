@@ -89,7 +89,7 @@
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-37" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpwXcHOXjfHbHd3cXeb7-38" value="&lt;font size=&quot;3&quot;&gt;收费标准&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpwXcHOXjfHbHd3cXeb7-38" value="&lt;font size=&quot;3&quot;&gt;预约记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.853;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QpwXcHOXjfHbHd3cXeb7-5" target="QpwXcHOXjfHbHd3cXeb7-1">
