@@ -74,9 +74,6 @@
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-29" value="&lt;font size=&quot;3&quot;&gt;车位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpwXcHOXjfHbHd3cXeb7-30" value="&lt;font size=&quot;3&quot;&gt;收费标准&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1210" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-31" value="&lt;font size=&quot;3&quot;&gt;车位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="60" width="120" height="80" as="geometry" />
         </mxCell>
