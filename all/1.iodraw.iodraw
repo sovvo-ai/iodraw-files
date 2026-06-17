@@ -75,6 +75,9 @@
         <mxCell id="697GVRKbdHxxmYqWcKsv-6" value="&lt;font size=&quot;3&quot;&gt;收费标准&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="697GVRKbdHxxmYqWcKsv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.331;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="697GVRKbdHxxmYqWcKsv-1" target="697GVRKbdHxxmYqWcKsv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
