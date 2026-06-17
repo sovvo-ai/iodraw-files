@@ -74,7 +74,7 @@
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-28" value="&lt;font size=&quot;3&quot;&gt;月卡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpwXcHOXjfHbHd3cXeb7-29" value="&lt;font size=&quot;3&quot;&gt;车位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpwXcHOXjfHbHd3cXeb7-29" value="&lt;font size=&quot;3&quot;&gt;车主&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-32" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
