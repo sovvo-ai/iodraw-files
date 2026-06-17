@@ -62,10 +62,10 @@
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;驶离&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpwXcHOXjfHbHd3cXeb7-21" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpwXcHOXjfHbHd3cXeb7-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;计费&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QpwXcHOXjfHbHd3cXeb7-22" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpwXcHOXjfHbHd3cXeb7-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;付款&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QpwXcHOXjfHbHd3cXeb7-26" value="制定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
